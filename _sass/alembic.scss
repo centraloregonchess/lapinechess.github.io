@@ -1,0 +1,38 @@
+@charset "utf-8";
+
+// Import frameworks & theme styles
+@import
+  "normalize",
+  "settings",
+  "sassline-base",
+  "syntax",
+  "flex",
+  "theme"
+;
+
+h2 {
+  margin-top: 1em;
+}
+
+table {
+    border-collapse: collapse;
+    border-radius: 1ex;
+    margin: 25px 0;
+    font-size: 0.9em;
+    font-family: sans-serif;
+    min-width: 400px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+}
+
+thead tr {
+    background-color: #779442;
+    color: #ffffff;
+    text-align: left;
+    border-top-left-radius: 1ex;
+    border-top-right-radius: 1ex;
+}
+
+th, td {
+    padding: 12px 15px;
+    vertical-align: top;
+}
