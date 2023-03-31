@@ -8,7 +8,7 @@ title: Links
 |---|---|---|---|---|
 |Bend Chess &amp; Go Club|Bend|Wednesdays&nbsp;6pm<br>[Crux Fermentation Project][crux]|Website: [bendchess.com][bendchess]<br>Mailing&nbsp;List:&nbsp;[sign-up][bendmailinglist]|
 |Central Oregon Chess Club|Bend|Thursdays&nbsp;6pm<br><a href="https://goo.gl/maps/XCGosQLEEgiGD5tJ9">Whispering Winds Retirement</a>|<a href="https://nwchess.com/clubs/bend_cocc.html">Club Details</a> or email Ryan B at <a href="mailto:rberhar@yahoo.com">rberhar@yahoo.com</a> to join the mailing list.|
-|La Pine Chess Club|La Pine|Mondays&nbsp;6pm;<br>[Wetlands Taproom][wetlands]|Come and visit!|
+|La Pine Chess Club|La Pine|Coming soon;<br>[Wetlands Taproom][wetlands]|Come and visit!|
 |Redmond Chess Club|Redmond|Tuesdays&nbsp;6pm<br><a href="https://goo.gl/maps/UikSMEQfyZUicuH16">High-Desert Music Hall</a>|Website:&nbsp;[redmondchess.com][redmondchess]|
 
 ## Websites
