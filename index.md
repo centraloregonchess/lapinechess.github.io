@@ -51,16 +51,16 @@ dd {
     We meet weekly in La Pine to play Chess. Everyone is welcome!
     <dl>
         <dt>When?</dt>
-        <dd>Coming soon!</dd>
+        <dd>Wednesdays, 6pm-8pm</dd>
     </dl>
     <dl>
         <dt>Where?</dt>
         <dd>
-            <a href="https://goo.gl/maps/KXoJ78rZE53UXETe8"><em>Wetlands Taphouse</em><br>
-            51375 US-97<br>La Pine<br>OR 97739</a>
+            <a href="https://maps.app.goo.gl/qnsxwuWsA1LGTXrT8"><em>La Pine Community Center</em><br>
+            16405 1st Street<br>La Pine<br>OR 97739</a>
         </dd>
     </dl>
-    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2886.113758338111!2d-121.50959478450174!3d43.666603879120785!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x54c77da08c8b74bb%3A0xf35d511400563005!2sWetlands%20Taphouse!5e0!3m2!1sen!2sus!4v1679975328188!5m2!1sen!2sus" width="350" height="300" style="border:0;max-height:300px;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2885.7610025687986!2d-121.50872382266407!3d43.67394015108748!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x54c77d4a39a0ed6b%3A0x1253f0d17b783c98!2s16405%201st%20St%2C%20La%20Pine%2C%20OR%2097739!5e0!3m2!1sen!2sus!4v1699039721346!5m2!1sen!2sus" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 <div class="blurb" style="float: right;">
     <a href="https://www.meetup.com/central-oregon-chess/">
